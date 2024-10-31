@@ -1,38 +1,53 @@
 # ACME-2024-2025-WebDesign
 
-Questo repository espone i link a tutti i progetti sviluppati durante il corso di [WebDesign](https://github.com/matteobaccan/CorsoWebDesign), tenuto per Accademia di Belle Arti di Novara, anno accademico 2024-2025.
+Repository contenente i progetti sviluppati durante il corso di [WebDesign](https://github.com/matteobaccan/CorsoWebDesign) presso l'Accademia di Belle Arti di Novara, anno accademico 2024-2025.
 
-## Progetto da svolgere durante il corso
+## Obiettivo del Corso
 
-All'interno del corso di WebDesign ognuno andrà a realizzare la grafica di sito aziendale mono-pagina.
-L'obiettivo è quello di riuscire a realizzare da zero un sito web responsive.
+Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da zero. Il progetto può essere sviluppato come sito aziendale o come portfolio personale, permettendo agli studenti di esprimere la propria creatività rispettando alcuni requisiti fondamentali.
 
-Ogni sito avrà un numero minimo di elementi che potranno essere estesi dai singoli alunni.
+## Requisiti del Progetto
 
-### Elementi principali
+### Elementi Obbligatori
 
-- README.MD descrittivo del progetto
-- Nome azienda e motto: ognu alunno potrà utilizzare design di loghi già realizzati per altri corsi
-- Chi siamo: un paragrafo che identifica l'azienda e di cosa si occupa
-- I servizi che offriamo: elenco di servizi offerti ed eventuali sreenshot di lavori già realizzati
+- **README.MD** dettagliato con la descrizione del progetto
+- **Branding**
+  - Nome azienda/professionista
+  - Logo (possibilità di utilizzare design realizzati in altri corsi)
+  - Motto/Slogan
+- **Sezione "Chi Siamo"**
+  - Presentazione dell'azienda/professionista
+  - Mission e valori
+  - Ambiti di competenza
+- **Sezione Servizi**
+  - Catalogo servizi offerti
+  - Portfolio lavori con screenshot
+- **Contatti e Localizzazione**
+  - Mappa interattiva (integrazione Google Maps)
+  - Form di contatto (integrazione Netlify Forms)
 
-### Elementi descrittivi
+### Elementi Facoltativi
 
-Il sito potrà ospitare integrazioni tratte da siti esterni o strumenti di AI
+È possibile arricchire il sito con:
+- Sezione Blog/News
+- Area Testimonial
+- Integrazioni con strumenti AI
+- Altri elementi pertinenti al progetto
 
-- Blog e notizie
-- Testimonial
-- Dove trovarci : con integrazione di Google Maps
-- Modulo di contatto : con integrazione delle form Netlify
+### Specifiche Tecniche
 
-### Caratteristiche
+- **Design Responsive**
+  - Ottimizzazione per dispositivi mobile
+  - Adattamento per tablet
+  - Visualizzazione desktop
+- **Qualità del Codice**
+  - Validazione W3C superata
+  - Codice ben strutturato e commentato
+  - Best practices SEO
 
-- Responsive : la resa dovrà essere ottimale in ambito mobile, tablet e desktop
-- Esente da errori sintattici : verificabili tramite validatori online
+## Risorse
 
-### Progetti di esempio del corso di WebDesign
-
-Viene riportato un repository di esempio nel quale sono stati inseriti alcuni esempi di strutture base utilizzabili all'interno del proprio sito
+È disponibile un repository di esempi contenente template e strutture base utilizzabili come riferimento per lo sviluppo del proprio progetto.
 
 - [Integrazione Github Netlify : progetto a singola pagina per WebDesign](https://github.com/matteobaccan/github-netlify-boilerplate)
 
