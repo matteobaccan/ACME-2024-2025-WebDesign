@@ -40,4 +40,26 @@ Viene riportato un repository di esempio nel quale sono stati inseriti alcuni es
 
 | Alunno | GitHub | Netlify | Prezenze | Progetto |
 |:------|:------------|:-|:-|:-|
-| | <> | <> | N | N |
+| Giudici	Lorenzo | <> | <> | N | N |
+| Maltese	Rosa | <> | <> | N | N |
+| Cappai	Aurora | <> | <> | N | N |
+| Koci	Griselda | <> | <> | N | N |
+| Garlando	Carol | <> | <> | N | N |
+| Acquaro	Martina | <> | <> | N | N |
+| Barbero	Giulia | <> | <> | N | N |
+| Mangialardi	Ilaria | <> | <> | N | N |
+| Marangoni	Asia | <> | <> | N | N |
+| Pastori	Andrea Patrizia | <> | <> | N | N |
+| Rozzoni	Federico | <> | <> | N | N |
+| Tavano	Nicolò | <> | <> | N | N |
+| Calloni	Ivan | <> | <> | N | N |
+| Carlino	Christian | <> | <> | N | N |
+| Dalla Bona	Martina | <> | <> | N | N |
+| De Pinto	Francesco | <> | <> | N | N |
+| Fogu	Andrea | <> | <> | N | N |
+| Ercole	Silvian | <> | <> | N | N |
+| Petitta Nicolò	Lapo | <> | <> | N | N |
+
+
+
+
