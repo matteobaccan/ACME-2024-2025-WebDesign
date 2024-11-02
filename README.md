@@ -53,7 +53,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 
 ## Autori e progetti sviluppati
 
-| Alunno | GitHub | Netlify | Prezenze | Progetto |
+| Alunno | GitHub | Netlify | Presenze | Progetto |
 |:------|:------------|:-|:-|:-|
 | Giudici	Lorenzo | <> | <> | N | N |
 | Maltese	Rosa | <> | <> | N | N |
