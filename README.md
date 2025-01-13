@@ -68,7 +68,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Rozzoni	Federico | <> | <> | N | N |
 | Tavano	Nicolò | <> | <> | N | N |
 | Calloni	Ivan | <> | <> | N | N |
-| Carlino	Christian | <> | <> | N | N |
+| Carlino	Christian | <> | <https://arethstudio.netlify.app> | N | N |
 | Dalla Bona	Martina | <> | <> | N | N |
 | De Pinto	Francesco | <> | <> | N | N |
 | Fogu	Andrea | <> | <> | N | N |
