@@ -63,7 +63,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Acquaro	Martina | <> | <> | N | N |
 | Barbero	Giulia | <> | <> | N | N |
 | Mangialardi	Ilaria | <> | <> | N | N |
-| Marangoni	Asia | <> | <> | N | N |
+| Marangoni	Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <> | N | N |
 | Pastori	Andrea Patrizia | <> | <> | N | N |
 | Rozzoni	Federico | <> | <> | N | N |
 | Tavano	Nicolò | <> | <> | N | N |
