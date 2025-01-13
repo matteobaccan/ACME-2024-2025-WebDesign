@@ -73,7 +73,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | De Pinto	Francesco | <> | <> | N | N |
 | Fogu	Andrea | <> | <> | N | N |
 | Ercole	Silvian | <> | <> | N | N |
-| Petitta Nicolò	Lapo | <> | <> | N | N |
+| Petitta Nicolò	Lapo | <https://github.com/nicolapo7058/website1> | <> | N | N |
 
 
 
