@@ -61,7 +61,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Koci	Griselda | <> | <> | N | N |
 | Garlando	Carol | <> | <> | N | N |
 | Acquaro	Martina | <> | <> | N | N |
-| Barbero	Giulia | <> | <> | N | N |
+| Barbero	Giulia | <https://github.com/ggg-b/giun> | <> | N | N |
 | Mangialardi	Ilaria | <https://github.com/ilaria003/SitoPersonale> | <> | N | N |
 | Marangoni	Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <> | N | N |
 | Pastori	Andrea Patrizia | <> | <> | N | N |
