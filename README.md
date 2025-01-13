@@ -63,7 +63,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Acquaro	Martina | <> | <> | N | N |
 | Barbero	Giulia | <https://github.com/ggg-b/giun> | <> | N | N |
 | Mangialardi	Ilaria | <https://github.com/ilaria003/SitoPersonale> | <> | N | N |
-| Marangoni	Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <> | N | N |
+| Marangoni	Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <https://progettoesamemarangoni.netlify.app> | N | N |
 | Pastori	Andrea Patrizia | <> | <> | N | N |
 | Rozzoni	Federico | <https://github.com/Z3ph1r0/SitoPersonale> | <https://federico-rozzoni-graphic.netlify.app/> | N | N |
 | Tavano	Nicolò | <> | <> | N | N |
