@@ -70,7 +70,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Calloni	Ivan | <https://github.com/Ivancalloni/uni> | <https://ivancalloni.netlify.app> | N | N |
 | Carlino	Christian | <> | <https://arethstudio.netlify.app> | N | N |
 | Dalla Bona	Martina | <https://github.com/martinadallabona/progettoesame> | <https://progettoesamedallabona.netlify.app> | N | N |
-| De Pinto	Francesco | <> | <https://fradepi.netlify.app> | N | N |
+| De Pinto	Francesco | <https://github.com/FraDepi01/SitoPersonale> | <https://fradepi.netlify.app> | N | N |
 | Fogu	Andrea | <> | <> | N | N |
 | Ercole	Silvian | <> | <> | N | N |
 | Petitta Nicolò	Lapo | <https://github.com/nicolapo7058/website1> | <> | N | N |
