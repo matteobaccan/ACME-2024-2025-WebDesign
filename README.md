@@ -60,7 +60,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Cappai	Aurora | <> | <> | N | N |
 | Koci	Griselda | <> | <> | N | N |
 | Garlando	Carol | <> | <> | N | N |
-| Acquaro	Martina | <https://github.com/Martina-Acquaro/SesitiveArt> | <> | N | N |
+| Acquaro	Martina | <https://github.com/Martina-Acquaro/SesitiveArt> | <https://sensitiveart.netlify.app> | N | N |
 | Barbero	Giulia | <https://github.com/ggg-b/giun> | <> | N | N |
 | Mangialardi	Ilaria | <https://github.com/ilaria003/SitoPersonale> | <> | N | N |
 | Marangoni	Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <https://progettoesamemarangoni.netlify.app> | N | N |
