@@ -55,26 +55,26 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 
 | Alunno | GitHub | Netlify | Presenze | Progetto |
 |:------|:------------|:-|:-|:-|
-| Giudici	Lorenzo | <https://github.com/lollo0547/web_design> | <https://moonlit-syrniki-9c90d0.netlify.app/> | N | N |
-| Huang Hanfei | <> | <> | N | N |
-| Maltese	Rosa | <https://github.com/Maltese1010/MalteseRosaDesign> | <https://malteserosadesign.netlify.app> | N | N |
-| Cappai	Aurora | <https://github.com/Auri24-fashion/RoriBrand> | <https://roribrand24.netlify.app> | N | N |
-| Koci  Griselda | <https://github.com/GriseldaKoci/griselda> | <https://eserciziowebdesign.netlify.app> | N | N |
+| Acquaro   Martina | <https://github.com/Martina-Acquaro/SesitiveArt> | <https://sensitiveart.netlify.app> | N | N |
+| Barbero   Giulia | <https://github.com/ggg-b/giun> | <> | N | N |
+| Calloni   Ivan | <https://github.com/Ivancalloni/uni> | <https://ivancalloni.netlify.app> | N | N |
+| Cappai    Aurora | <https://github.com/Auri24-fashion/RoriBrand> | <https://roribrand24.netlify.app> | N | N |
+| Carlino   Christian | <https://github.com/ChCarly/Areth> | <https://arethstudio.netlify.app> | N | N |
+| Dalla Bona    Martina | <https://github.com/martinadallabona/progettoesame> | <https://progettoesamedallabona.netlify.app> | N | N |
+| De Pinto  Francesco | <https://github.com/FraDepi01/SitoPersonale> | <https://fradepi.netlify.app> | N | N |
+| Fogu  Andrea | <https://github.com/Foguus/Diamond> | <https://foguandrea-portfolio.netlify.app> | N | N |
 | Garlando  Carol | <https://github.com/GarlandoCarol/portfolio> | <https://portfoliogarlando.netlify.app> | N | N |
-| Acquaro	Martina | <https://github.com/Martina-Acquaro/SesitiveArt> | <https://sensitiveart.netlify.app> | N | N |
-| Barbero	Giulia | <https://github.com/ggg-b/giun> | <> | N | N |
-| Mangialardi	Ilaria | <https://github.com/ilaria003/SitoPersonale> | <> | N | N |
-| Marangoni	Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <https://progettoesamemarangoni.netlify.app> | N | N |
-| Pastori	Andrea Patrizia | <https://github.com/AndreaPastori/SitoPersonale> | <https://pastoriandrea-portfolio.netlify.app> | N | N |
-| Rozzoni	Federico | <https://github.com/Z3ph1r0/SitoPersonale> | <https://federico-rozzoni-graphic.netlify.app/> | N | N |
-| Tavano	Nicolò | <https://github.com/NicoloTavano/SitoPersonale> | <https://sitopersonalenic.netlify.app> | N | N |
-| Calloni	Ivan | <https://github.com/Ivancalloni/uni> | <https://ivancalloni.netlify.app> | N | N |
-| Carlino	Christian | <https://github.com/ChCarly/Areth> | <https://arethstudio.netlify.app> | N | N |
-| Dalla Bona	Martina | <https://github.com/martinadallabona/progettoesame> | <https://progettoesamedallabona.netlify.app> | N | N |
-| De Pinto	Francesco | <https://github.com/FraDepi01/SitoPersonale> | <https://fradepi.netlify.app> | N | N |
-| Fogu	Andrea | <https://github.com/Foguus/Diamond> | <https://foguandrea-portfolio.netlify.app> | N | N |
-| Ercole	Silvian | <> | <> | N | N |
-| Petitta Nicolò	Lapo | <https://github.com/nicolapo7058/website1> | <> | N | N |
+| Giudici   Lorenzo | <https://github.com/lollo0547/web_design> | <https://moonlit-syrniki-9c90d0.netlify.app/> | N | N |
+| Huang Hanfei | <> | <> | N | N |
+| Koci  Griselda | <https://github.com/GriseldaKoci/griselda> | <https://eserciziowebdesign.netlify.app> | N | N |
+| Maltese   Rosa | <https://github.com/Maltese1010/MalteseRosaDesign> | <https://malteserosadesign.netlify.app> | N | N |
+| Mangialardi   Ilaria | <https://github.com/ilaria003/SitoPersonale> | <> | N | N |
+| Marangoni Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <https://progettoesamemarangoni.netlify.app> | N | N |
+| Pastori   Andrea Patrizia | <https://github.com/AndreaPastori/SitoPersonale> | <https://pastoriandrea-portfolio.netlify.app> | N | N |
+| Petitta Nicolò    Lapo | <https://github.com/nicolapo7058/website1> | <> | N | N |
+| Rozzoni   Federico | <https://github.com/Z3ph1r0/SitoPersonale> | <https://federico-rozzoni-graphic.netlify.app/> | N | N |
+| Tavano    Nicolò | <https://github.com/NicoloTavano/SitoPersonale> | <https://sitopersonalenic.netlify.app> | N | N |
+
 
 
 
