@@ -56,6 +56,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Alunno | GitHub | Netlify | Presenze | Progetto |
 |:------|:------------|:-|:-|:-|
 | Giudici	Lorenzo | <https://github.com/lollo0547/web_design> | <https://moonlit-syrniki-9c90d0.netlify.app/> | N | N |
+| Huang Hanfei | <> | <> | N | N |
 | Maltese	Rosa | <https://github.com/Maltese1010/MalteseRosaDesign> | <https://malteserosadesign.netlify.app> | N | N |
 | Cappai	Aurora | <> | <> | N | N |
 | Koci	Griselda | <> | <> | N | N |
