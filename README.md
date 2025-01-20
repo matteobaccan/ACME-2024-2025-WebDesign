@@ -68,7 +68,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Huang Hanfei | <> | <> | N | N |
 | Koci  Griselda | <https://github.com/GriseldaKoci/griselda> | <https://eserciziowebdesign.netlify.app> | N | N |
 | Maltese   Rosa | <https://github.com/Maltese1010/MalteseRosaDesign> | <https://malteserosadesign.netlify.app> | N | N |
-| Mangialardi   Ilaria | <https://github.com/ilaria003/SitoPersonale> | <> | N | N |
+| Mangialardi   Ilaria | <https://github.com/ilaria003/SitoPersonale> | <https://ilariamangialardi.netlify.app/> | N | N |
 | Marangoni Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <https://progettoesamemarangoni.netlify.app> | N | N |
 | Pastori   Andrea Patrizia | <https://github.com/AndreaPastori/SitoPersonale> | <https://pastoriandrea-portfolio.netlify.app> | N | N |
 | Petitta Nicolò    Lapo | <https://github.com/nicolapo7058/website1> | <> | N | N |
