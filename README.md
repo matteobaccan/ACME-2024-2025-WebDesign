@@ -71,7 +71,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Mangialardi   Ilaria | <https://github.com/ilaria003/SitoPersonale> | <https://ilariamangialardi.netlify.app/> | N | N |
 | Marangoni Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <https://progettoesamemarangoni.netlify.app> | N | N |
 | Pastori   Andrea Patrizia | <https://github.com/AndreaPastori/SitoPersonale> | <https://pastoriandrea-portfolio.netlify.app> | N | N |
-| Petitta Nicolò    Lapo | <https://github.com/nicolapo7058/website1> | <> | N | N |
+| Petitta Nicolò    Lapo | <https://github.com/nicolapo7058/website1> | <https://nicolapo2.netlify.app/> | N | N |
 | Rozzoni   Federico | <https://github.com/Z3ph1r0/SitoPersonale> | <https://federico-rozzoni-graphic.netlify.app/> | N | N |
 | Tavano    Nicolò | <https://github.com/NicoloTavano/SitoPersonale> | <https://sitopersonalenic.netlify.app> | N | N |
 
