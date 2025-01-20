@@ -58,7 +58,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Giudici	Lorenzo | <https://github.com/lollo0547/web_design> | <https://moonlit-syrniki-9c90d0.netlify.app/> | N | N |
 | Huang Hanfei | <> | <> | N | N |
 | Maltese	Rosa | <https://github.com/Maltese1010/MalteseRosaDesign> | <https://malteserosadesign.netlify.app> | N | N |
-| Cappai	Aurora | <> | <> | N | N |
+| Cappai	Aurora | <https://github.com/Auri24-fashion/RoriBrand> | <https://roribrand24.netlify.app> | N | N |
 | Koci  Griselda | <https://github.com/GriseldaKoci/griselda> | <https://eserciziowebdesign.netlify.app> | N | N |
 | Garlando  Carol | <https://github.com/GarlandoCarol/portfolio> | <https://portfoliogarlando.netlify.app> | N | N |
 | Acquaro	Martina | <https://github.com/Martina-Acquaro/SesitiveArt> | <https://sensitiveart.netlify.app> | N | N |
