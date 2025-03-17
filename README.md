@@ -63,7 +63,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Dalla Bona    Martina | <https://github.com/martinadallabona/progettoesame> | <https://progettoesamedallabona.netlify.app> | N | N |
 | De Pinto  Francesco | <https://github.com/FraDepi01/SitoPersonale> | <https://fradepi.netlify.app> | N | N |
 | Fogu  Andrea | <https://github.com/Foguus/Diamond> | <https://foguandrea-portfolio.netlify.app> | N | N |
-| Garlando  Carol | <https://github.com/GarlandoCarol/portfolio> | <https://portfoliogarlando.netlify.app> | N | N |
+| Garlando  Carol | <https://github.com/GarlandoCarol/portfolio> | <https://portfoliogcarol.netlify.app/> | N | N |
 | Giudici   Lorenzo | <https://github.com/lollo0547/web_design> | <https://moonlit-syrniki-9c90d0.netlify.app/> | N | N |
 | Huang Hanfei | <https://github.com/ACU002/2024-2025---Web-design-HUANG> | <https://2024-2025-web-design-huang.vercel.app> | N | N |
 | Koci  Griselda | <https://github.com/GriseldaKoci/griselda> | <https://eserciziowebdesign.netlify.app> | N | N |
