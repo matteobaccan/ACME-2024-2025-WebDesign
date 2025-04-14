@@ -60,7 +60,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Calloni   Ivan | <https://github.com/Ivancalloni/uni> | <https://ivancalloni.netlify.app> | N | N |
 | Cappai    Aurora | <https://github.com/Auri24-fashion/RoriBrand> | <https://roribrand24.netlify.app> | N | N |
 | Carlino   Christian | <https://github.com/ChCarly/Areth> | <https://arethstudio.netlify.app> | N | N |
-| Dalla Bona    Martina | <https://github.com/martinadallabona/progettoesame> | <https://progettoesamedallabona.netlify.app> | N | N |
+| Dalla Bona    Martina | <https://github.com/martinadallabona/progettoesame> | <https://progettoesamedallabona.netlify.app> | N | S |
 | De Pinto  Francesco | <https://github.com/FraDepi01/SitoPersonale> | <https://fradepi.netlify.app> | N | N |
 | Fogu  Andrea | <https://github.com/Foguus/Diamond> | <https://foguandrea-portfolio.netlify.app> | N | N |
 | Garlando  Carol | <https://github.com/GarlandoCarol/portfolio> | <https://portfoliogcarol.netlify.app/> | N | N |
