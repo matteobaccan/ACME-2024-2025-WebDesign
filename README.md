@@ -55,21 +55,21 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 
 | Alunno | GitHub | Netlify | Presenze | Progetto |
 |:------|:------------|:-|:-|:-|
-| Acquaro Martina | <https://github.com/Martina-Acquaro/SesitiveArt> | <https://sensitiveart.netlify.app> | N | N |
+| Acquaro Martina | <https://github.com/Martina-Acquaro/SesitiveArt> | <https://sensitiveart.netlify.app> | S | N |
 | Barbero Giulia | <https://github.com/ggg-b/giun> | <https://webdesign-portfolio.netlify.app> | S | N |
 | Calloni Ivan | <https://github.com/Ivancalloni/uni> | <https://ivancalloni.netlify.app> | S | N |
 | Cappai Aurora | <https://github.com/Auri24-fashion/RoriBrand> | <https://cappaiportfolio.netlify.app/> | S | N |
 | Carlino Christian | <https://github.com/ChCarly/Areth> | <https://christiancarlino.netlify.app/> | N | N |
-| Dalla Bona Martina | <https://github.com/martinadallabona/progettoesame> | <https://progettoesamedallabona.netlify.app> | N | S |
+| Dalla Bona Martina | <https://github.com/martinadallabona/progettoesame> | <https://progettoesamedallabona.netlify.app> | S | S |
 | De Pinto Francesco | <https://github.com/FraDepi01/SitoPersonale> | <https://fradepi.netlify.app> | S | N |
-| Fogu Andrea | <https://github.com/Foguus/Diamond> | <https://foguandrea-portfolio.netlify.app> | N | N |
+| Fogu Andrea | <https://github.com/Foguus/Diamond> | <https://foguandrea-portfolio.netlify.app> | S | N |
 | Garlando Carol | <https://github.com/GarlandoCarol/portfolio> | <https://portfoliogcarol.netlify.app/> | S | N |
 | Giudici Lorenzo | <https://github.com/lollo0547/web_design> | <https://moonlit-syrniki-9c90d0.netlify.app/> | S | N |
 | Huang Hanfei | <https://github.com/ACU002/2024-2025---Web-design-HUANG> | <https://2024-2025-web-design-huang.vercel.app> | S | N |
 | Koci Griselda | <https://github.com/GriseldaKoci/griselda> | <https://eserciziowebdesign.netlify.app> | S | N |
 | Maltese Rosa | <https://github.com/Maltese1010/MalteseRosaDesign> | <https://malteserosadesign.netlify.app> | N | N |
 | Mangialardi Ilaria | <https://github.com/ilaria003/SitoPersonale> | <https://ilariamangialardi.netlify.app/> | S | N |
-| Marangoni Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <https://progettoesamemarangoni.netlify.app> | N | N |
+| Marangoni Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <https://progettoesamemarangoni.netlify.app> | S | N |
 | Pastori Andrea Patrizia | <https://github.com/AndreaPastori/SitoPersonale> | <https://pastoriandrea-portfolio.netlify.app> | S | S |
 | Petitta Nicolò Lapo | <https://github.com/nicolapo7058/sito2> | <https://nicolapo2.netlify.app/> | S | N |
 | Rozzoni Federico | <https://github.com/Z3ph1r0/SitoPersonale> | <https://federico-rozzoni-graphic.netlify.app/> | S | N |
