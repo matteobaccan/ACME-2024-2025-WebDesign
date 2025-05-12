@@ -67,7 +67,7 @@ Gli studenti realizzeranno un sito web aziendale one-page responsive partendo da
 | Giudici Lorenzo | <https://github.com/lollo0547/web_design> | <https://moonlit-syrniki-9c90d0.netlify.app/> | S | S |
 | Huang Hanfei | <https://github.com/ACU002/2024-2025---Web-design-HUANG> | <https://2024-2025-web-design-huang.vercel.app> | S | N |
 | Koci Griselda | <https://github.com/GriseldaKoci/griselda> | <https://eserciziowebdesign.netlify.app> | S | N |
-| Maltese Rosa | <https://github.com/Maltese1010/MalteseRosaDesign> | <https://malteserosadesign.netlify.app> | N | N |
+| Maltese Rosa | <https://github.com/Maltese1010/MalteseRosaDesign> | <https://malteserosadesign.netlify.app> | s | s |
 | Mangialardi Ilaria | <https://github.com/ilaria003/SitoPersonale> | <https://ilariamangialardi.netlify.app/> | S | N |
 | Marangoni Asia | <https://github.com/asia-marangoni/progetto-per-l-esame> | <https://progettoesamemarangoni.netlify.app> | S | N |
 | Pastori Andrea Patrizia | <https://github.com/AndreaPastori/SitoPersonale> | <https://pastoriandrea-portfolio.netlify.app> | S | S |
